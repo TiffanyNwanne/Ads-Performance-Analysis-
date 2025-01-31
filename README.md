@@ -1,5 +1,6 @@
 # Ads Performance Analysis 
 
+[![Preview Image](https://github.com/TiffanyNwanne/Ads-Performance-Analysis-/blob/main/images/Overview%20Light%20Mode.png))](https://github.com/TiffanyNwanne/Ads-Performance-Analysis-/blob/main/images/Overview%20Light%20Mode.png)
 
 ##  Project Overview
 
@@ -18,6 +19,8 @@ This project analyzes marketing campaign performance using **Python for data ana
  **Source:** Historical marketing data, including impressions, clicks, costs, and conversion metrics.
 
  **Key Steps in Data Cleaning (Python)**
+ 
+ [![Preview Image](https://github.com/TiffanyNwanne/Ads-Performance-Analysis-/blob/main/images/Ads_Performance_Analysis.png))](https://github.com/TiffanyNwanne/Ads-Performance-Analysis-/blob/main/images/Ads_Performance_Analysis.png)
 
 1️⃣ **Fixed Data Formatting**
 
@@ -41,6 +44,8 @@ This project analyzes marketing campaign performance using **Python for data ana
 
 
 ## Insights from the Dashboard (Tableau)**
+
+[![Preview Image](https://github.com/TiffanyNwanne/Ads-Performance-Analysis-/blob/main/images/Audience%20%20Light%20Mode.png))](https://github.com/TiffanyNwanne/Ads-Performance-Analysis-/blob/main/images/Audience%20%20Light%20Mode.png)
 
 **1️⃣ Campaign & Channel Performance**
 
