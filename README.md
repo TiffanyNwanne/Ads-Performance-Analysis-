@@ -43,7 +43,7 @@ This project analyzes marketing campaign performance using **Python for data ana
 •	CTR vs. ROI relationship to evaluate ad effectiveness.
 
 
-## Insights from the Dashboard (Tableau)**
+## Insights from the Dashboard (Tableau)
 
 [![Preview Image](https://github.com/TiffanyNwanne/Ads-Performance-Analysis-/blob/main/images/Audience%20%20Light%20Mode.png))](https://github.com/TiffanyNwanne/Ads-Performance-Analysis-/blob/main/images/Audience%20%20Light%20Mode.png)
 
@@ -99,6 +99,6 @@ This project analyzes marketing campaign performance using **Python for data ana
 
 ##  Tools Used
 
-•	**Python** (Pandas, Matplotlib, Seaborn)
+•	**Python** (Data Cleaning and Analysis)
 
-•	**Tableau** (Data Visualization & Dashboard Creation)
+•	**Tableau** (Data Visualization)
